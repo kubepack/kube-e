@@ -3,5 +3,5 @@ owners:
 - name: Appscode
   email: team@appscode.com
 dependencies:
-- package: github.com/a8uhnf/test-yml1
-  branch: test-dep1
+- package: github.com/a8uhnf/kube-c
+  branch: master
