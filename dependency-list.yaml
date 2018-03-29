@@ -1,4 +1,3 @@
 items:
-- package: github.com/a8uhnf/kube-f
+- package: github.com/kubepack/kube-f
   branch: test-11
-  
